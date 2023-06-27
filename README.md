@@ -23,13 +23,12 @@ The project contains the following sections:
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/titanic-survival-prediction.git`
+1. Clone the repository: `git clone https://github.com/swarnim0308/Passenger-Survival-Prediction-in-Titanic-Dataset.git`
 2. Navigate to the project directory: `cd titanic-survival-prediction`
-3. Install the required libraries: `pip install -r requirements.txt`
-4. Run the Jupyter Notebook: `jupyter notebook`
-5. Open the `titanic_survival_prediction.ipynb` file.
-6. Execute each cell to run the code and observe the results.
-7. Modify the code as needed and experiment with different models or techniques.
+3. Open project in `PyCharm`.
+4. Open the `.py` file.
+5. Execute each cell to run the code and observe the results.
+6. Modify the code as needed and experiment with different models or techniques.
 
 ## Dependencies
 
@@ -41,8 +40,6 @@ The project requires the following dependencies:
 - matplotlib
 - seaborn
 - scikit-learn
-
-You can install the necessary libraries by running `pip install -r requirements.txt`.
 
 Feel free to explore the code, modify it, or use it as a reference for your own projects.
 
