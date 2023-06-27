@@ -44,15 +44,7 @@ The project requires the following dependencies:
 
 You can install the necessary libraries by running `pip install -r requirements.txt`.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 Feel free to explore the code, modify it, or use it as a reference for your own projects.
-
-## Acknowledgments
-
-The dataset used in this project is provided by Kaggle as part of their Titanic: Machine Learning from Disaster competition. Special thanks to Kaggle for making the data available for educational and research purposes.
 
 ## Conclusion
 
